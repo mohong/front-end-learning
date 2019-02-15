@@ -1,0 +1,14 @@
+{
+  "name": "front-end-learning",
+  "version": "0.0.1",
+  "description": "前端学习指南",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^0.14.8"
+  }
+}
